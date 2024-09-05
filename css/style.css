@@ -3043,7 +3043,9 @@ h5.sbox-link a:after {
 .career-box-ico {   
   width: 20%;
   display: inline-block!important;  
-  float: left;
+  vertical-align: top;
+  appearance: none;
+  -webkit-appearance: none;
   margin-top: -10px;
   text-align: left;
 }
